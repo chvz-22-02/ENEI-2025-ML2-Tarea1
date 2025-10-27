@@ -4,6 +4,7 @@ Deadline: Sunday, October 26th, 2025, 23:59
 
 Environment: Python, numpy, pandas, matplotlib, scikit-learn, ntlk, ISLP.
 
+Members: Gustavo Aquino, Marcelo Chavez y Jorge Dongo.
 ---
 
 ## Part A: Binary Classification on Text Data
